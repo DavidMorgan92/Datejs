@@ -1,0 +1,24 @@
+{
+	"name": "drmorgan-Datejs",
+	"description": "A Date library for browsers",
+	"homepage": "https://github.com/DavidMorgan92/Datejs",
+	"private": true,
+	"ignore": [
+		"**/.*",
+		"node_modules",
+		"bower_components",
+		"test",
+		"tests",
+		"src",
+		".gitattributes",
+		".gitignore",
+		"CHANGELOG.md",
+		"CLA.md",
+		"CONTRIBUTING.md",
+		"gulpfile.js",
+		"LICENSE",
+		"package-lock.json",
+		"package.json",
+		"TODO.md"
+	]
+}
